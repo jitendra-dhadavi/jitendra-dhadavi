@@ -4,7 +4,8 @@
 
 I am a Full Stack Javascript Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications. **Expert in Angular**, with additional
+skills in React, Node.js, and MongoDB. Committed to continuous learning and innovation.
 
 - :seedling: Exploring Technical Content Writing.
 
@@ -14,7 +15,6 @@ I am a Full Stack Javascript Developer <img src="https://media.giphy.com/media/W
   <div>
     
   <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/angular.png" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-  <img src="https://jitendra-full-stack-javascript.web.app/technology/angular-material.svg" title="Ant Design" alt="Ant Design" width="40" height="40"/>&nbsp;
   <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/ant_design.png" title="Ant Design" alt="Ant Design" width="40" height="40"/>&nbsp;
   <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/bootstrap.png" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
