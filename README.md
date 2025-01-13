@@ -4,13 +4,13 @@
 
 I am a Full Stack Javascript Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications. **Expert in Angular**, with additional
-skills in Ionic, React, Node.js, and MongoDB. Committed to continuous learning and innovation.
+- 🔭 **Currently working as a Software Engineer**, contributing to frontend & backend development.
+- 🏆 **Expert in Angular**, with strong experience in Ionic, React, Node.js, and MongoDB.
+- 💡 Passionate about **problem-solving** and optimizing JavaScript algorithms.
+- 📖 **Learning & Innovating** new things every day!
+- ⚡ **In my free time**, I solve problems on **GeeksforGeeks** and read tech articles.
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
+  
 ### :hammer_and_wrench: Languages and Tools :
   <div>
     
@@ -25,6 +25,7 @@ skills in Ionic, React, Node.js, and MongoDB. Committed to continuous learning a
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   
 </div>
+
 <!--
 **jitendra-dhadavi/jitendra-dhadavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
